@@ -1,2 +1,2 @@
 # hello-word
-Hi
+be better
